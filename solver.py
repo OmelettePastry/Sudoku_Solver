@@ -5,6 +5,7 @@
 #
 # Comments:
 # 1. Rename variables more appropriately
+# 2. May modify code to use numpy in the future
 
 import copy     # deepcopy used for 3d list
 import random
