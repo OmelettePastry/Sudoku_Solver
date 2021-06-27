@@ -9,6 +9,7 @@
 import copy     # deepcopy used for 3d list
 import random
 import math
+import numpy as np
 
 class Solver:
 
